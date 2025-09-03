@@ -1,57 +1,36 @@
-<div align="center">
+# 👋 Hello, I'm Freddie Alicante
 
-# 🌟 Hi there, I'm Freddie 👋 🌟
+> *Blending creativity with code to build amazing digital experiences*
 
-Welcome to my GitHub profile! I am passionate about crafting beautiful and functional digital experiences through **front-end web development** and **Android mobile app development**.
+## 🚀 About Me
 
----
+I'm a passionate developer specializing in **front-end web development** and **Android mobile app development**. I love creating user-friendly interfaces and robust applications that solve real-world problems.
 
-## 🚀 Skills & Technologies
+## 💻 Skills
 
-### 🌐 Front-End Web Development
-I specialize in building responsive, user-friendly websites with modern technologies and best practices.
+### Front-End Development
+- HTML5, CSS3, JavaScript (ES6+)
+- React, Next.js, Vue.js
+- Tailwind CSS, Bootstrap
+- Responsive Design & Accessibility
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Android Development
+- Java & Kotlin
+- Android SDK, Jetpack
+- Firebase, SQLite
+- Material Design
 
-- Responsive design and mobile-first development
-- UI/UX design principles and accessibility
+### Tools & Technologies
+- Git, GitHub
+- VS Code, Android Studio
+- REST APIs, JSON
+- Agile Methodologies
 
-### 🤖 Android Mobile Development
-I create engaging and performant Android applications with a focus on clean architecture and smooth user experience.
+## 📂 Project Structure
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+I organize my projects for scalability:
 
-- Android SDK and Jetpack components
-- Material Design implementation
-- RESTful API integration and data persistence
-- Testing and debugging Android apps
-
----
-
-## 🛠 Tools & Methodologies
-
-- **IDEs:** Visual Studio Code, Android Studio
-- **Version Control:** Git & GitHub
-- **Databases:** Firebase, MySQL
-- **APIs:** REST APIs and JSON
-- **Methodologies:** Agile and modified waterfall development methodologies
-- **Concepts:** Data structures and algorithms
-
----
-
-## 📁 File Structure
-
-I maintain a clean and organized file structure for my projects to ensure scalability and maintainability:
-
-### Web Projects
+**Web Projects:**
 ```
 project/
 ├── src/
@@ -59,54 +38,35 @@ project/
 │   ├── styles/
 │   └── utils/
 ├── public/
-├── package.json
-└── README.md
+└── package.json
 ```
 
-### Android Projects
+**Android Projects:**
 ```
 app/
-├── src/main/java/com/example/
+├── src/main/java/
 │   ├── activities/
 │   ├── fragments/
-│   ├── models/
-│   └── utils/
+│   └── models/
 ├── src/main/res/
-│   ├── layout/
-│   ├── values/
-│   └── drawable/
-├── build.gradle
-└── AndroidManifest.xml
+└── build.gradle
 ```
 
----
+## 🌟 Featured Projects
 
-## 📊 GitHub Stats
+- **[Photo Gallery](https://github.com/codewith-freddie/photo-gallery)** - Responsive image gallery with modal views
+- **[Android App Example](https://github.com/codewith-freddie/android-app)** - Sample Android application
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codewith-freddie&show_icons=true&theme=radical)
+## 📈 GitHub Stats
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewith-freddie&show_icons=true&theme=merko)
 
-## 🚀 Explore My Work
+## 📫 Get in Touch
 
-Feel free to browse my repositories to see projects that showcase my skills in both web and mobile development. I am always eager to learn and take on new challenges.
-
----
-
-## 📫 Connect with Me
-
-- GitHub: [https://github.com/codewith-freddie](https://github.com/codewith-freddie)
-- LinkedIn: [https://www.linkedin.com/in/codewith-freddie/](https://www.linkedin.com/in/codewith-freddie/)
-- Email: freddiealicante1a@gmail.com
+- **Email:** freddiealicante1a@gmail.com
+- **LinkedIn:** [codewith-freddie](https://www.linkedin.com/in/codewith-freddie/)
+- **GitHub:** [codewith-freddie](https://github.com/codewith-freddie)
 
 ---
 
-## 🎉 Fun Fact
-
-I love turning ideas into reality through code, whether it's a stunning website or a sleek mobile app. When I'm not coding, you can find me exploring new technologies or enjoying a good cup of coffee! ☕
-
----
-
-Thank you for visiting my profile! Let's build something amazing together, blending creativity with code. ✨
-
-</div>
+*Thanks for visiting! Let's connect and build something great together.* ✨
