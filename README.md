@@ -56,6 +56,8 @@ app/
 
 - **[Photo Gallery](https://github.com/codewith-freddie/photo-gallery)** - Responsive image gallery with modal views
 - **[Android App Example](https://github.com/codewith-freddie/android-app)** - Sample Android application
+- **[Learn Python Exercises](https://github.com/codewith-freddie/learn-python-exercises)** - Python learning exercises and projects
+- **[My Portfolio Website](https://github.com/codewith-freddie/my-portfolio-website)** - Personal portfolio website
 
 ## 📈 GitHub Stats
 
