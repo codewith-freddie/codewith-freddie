@@ -1,133 +1,93 @@
 <div align="center">
 
-<style>
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
-    transform: translateY(0);
-  }
-  40% {
-    transform: translateY(-10px);
-  }
-  60% {
-    transform: translateY(-5px);
-  }
-}
-.bounce {
-  animation: bounce 2s infinite;
-}
-a:hover {
-  color: #ff6b6b !important;
-  transition: color 0.3s ease;
-}
-</style>
+# 🌟 Welcome to My Portfolio 🌟
 
-# 🌟 <span class="bounce">Hi there, I'm Freddie</span> 👋 🌟
+## 👋 Hi, I'm Freddie Alicante
 
-Welcome to my GitHub profile! I am passionate about crafting beautiful and functional digital experiences through **front-end web development** and **Android mobile app development**.
+*Front-End Web Developer & Android Mobile App Developer*  
+*Blending creativity with code to build amazing digital experiences*
 
 ---
 
-## 🚀 Skills & Technologies
+## 📖 About Me
 
-### 🌐 Front-End Web Development
-I specialize in building responsive, user-friendly websites with modern technologies and best practices.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-- Responsive design and mobile-first development
-- UI/UX design principles and accessibility
-
-### 🤖 Android Mobile Development
-I create engaging and performant Android applications with a focus on clean architecture and smooth user experience.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-- Android SDK and Jetpack components
-- Material Design implementation
-- RESTful API integration and data persistence
-- Testing and debugging Android apps
+Hello! I'm Freddie, a passionate developer with a love for creating intuitive and beautiful digital products. With expertise in front-end web development and Android mobile apps, I strive to deliver high-quality solutions that enhance user experiences. When I'm not coding, you can find me exploring new technologies, photography, or enjoying a good cup of coffee.
 
 ---
 
-## 🛠 Tools & Methodologies
+## 🚀 Skills
 
-- **IDEs:** Visual Studio Code, Android Studio
-- **Version Control:** Git & GitHub
-- **Databases:** Firebase, MySQL
-- **APIs:** REST APIs and JSON
-- **Methodologies:** Agile and modified waterfall development methodologies
-- **Concepts:** Data structures and algorithms
+### Front-End Development
+- **HTML5** <progress value="90" max="100"></progress> 90%
+- **CSS3** <progress value="85" max="100"></progress> 85%
+- **JavaScript** <progress value="80" max="100"></progress> 80%
+- **React** <progress value="75" max="100"></progress> 75%
+- **Tailwind CSS** <progress value="70" max="100"></progress> 70%
+
+### Android Development
+- **Java** <progress value="85" max="100"></progress> 85%
+- **Kotlin** <progress value="80" max="100"></progress> 80%
+- **Android SDK** <progress value="75" max="100"></progress> 75%
+- **Firebase** <progress value="70" max="100"></progress> 70%
+
+### Tools & Technologies
+- Git, GitHub
+- VS Code, Android Studio
+- REST APIs, JSON
+- Agile Methodologies
 
 ---
 
-## 📁 File Structure
+## 📂 Featured Projects
 
-I maintain a clean and organized file structure for my projects to ensure scalability and maintainability:
+### 🌐 [Photo Gallery](https://github.com/codewith-freddie/photo-gallery)
+A responsive photo gallery website showcasing images of food and places. Built with HTML, CSS, and JavaScript.
 
-### Web Projects
-```
-project/
-├── src/
-│   ├── components/
-│   ├── styles/
-│   └── utils/
-├── public/
-├── package.json
-└── README.md
-```
+- **Technologies:** HTML5, CSS3, JavaScript
+- **Features:** Modal popups, responsive design, smooth navigation
 
-### Android Projects
-```
-app/
-├── src/main/java/com/example/
-│   ├── activities/
-│   ├── fragments/
-│   ├── models/
-│   └── utils/
-├── src/main/res/
-│   ├── layout/
-│   ├── values/
-│   └── drawable/
-├── build.gradle
-└── AndroidManifest.xml
-```
+### 📱 [Android App Example](https://github.com/codewith-freddie/android-app)
+A sample Android application demonstrating clean architecture and modern UI.
+
+- **Technologies:** Kotlin, Android SDK, Firebase
+- **Features:** User authentication, data persistence, Material Design
+
+### 🛍️ [E-commerce Website](https://github.com/codewith-freddie/ecommerce)
+An e-commerce platform with shopping cart and payment integration.
+
+- **Technologies:** React, Node.js, MongoDB
+- **Features:** Product catalog, user accounts, secure payments
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codewith-freddie&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewith-freddie&show_icons=true&theme=radical)
 
 ---
 
-## 🚀 Explore My Work
+## 📫 Get in Touch
 
-Feel free to browse my repositories to see projects that showcase my skills in both web and mobile development. I am always eager to learn and take on new challenges.
-
----
-
-## 📫 Connect with Me
-
-- GitHub: [https://github.com/codewith-freddie](https://github.com/codewith-freddie)
-- LinkedIn: [https://www.linkedin.com/in/codewith-freddie/](https://www.linkedin.com/in/codewith-freddie/)
-- Email: freddiealicante1a@gmail.com
+- **Email:** freddiealicante1a@gmail.com
+- **LinkedIn:** [codewith-freddie](https://www.linkedin.com/in/codewith-freddie/)
+- **GitHub:** [codewith-freddie](https://github.com/codewith-freddie)
+- **Phone:** +63-9202867038
 
 ---
 
-## 🎉 Fun Fact
+## 🎨 Portfolio Gallery
 
-I love turning ideas into reality through code, whether it's a stunning website or a sleek mobile app. When I'm not coding, you can find me exploring new technologies or enjoying a good cup of coffee! ☕
+Here are some snapshots from my projects:
+
+| Food Gallery | Places Gallery | Profile Images |
+|--------------|----------------|----------------|
+| ![Food](img/food/1.jpg) | ![Places](img/places/pl1.jpg) | ![Profile](img/profiles/prof1.jpg) |
+| ![Food](img/food/2.jpg) | ![Places](img/places/pl2.jpg) | ![Profile](img/profiles/prof2.jpg) |
+
+*Explore more in my [Photo Gallery](https://github.com/codewith-freddie/photo-gallery) repository.*
 
 ---
 
-Thank you for visiting my profile! Let's build something amazing together, blending creativity with code. ✨
+Thank you for visiting my portfolio! Let's connect and build something amazing together. ✨
 
 </div>
