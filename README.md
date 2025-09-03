@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🌟 Welcome to My Portfolio 🌟
 
 ## 👋 Hi, I'm Freddie Alicante
@@ -18,17 +16,17 @@ Hello! I'm Freddie, a passionate developer with a love for creating intuitive an
 ## 🚀 Skills
 
 ### Front-End Development
-- **HTML5** <progress value="90" max="100"></progress> 90%
-- **CSS3** <progress value="85" max="100"></progress> 85%
-- **JavaScript** <progress value="80" max="100"></progress> 80%
-- **React** <progress value="75" max="100"></progress> 75%
-- **Tailwind CSS** <progress value="70" max="100"></progress> 70%
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Android Development
-- **Java** <progress value="85" max="100"></progress> 85%
-- **Kotlin** <progress value="80" max="100"></progress> 80%
-- **Android SDK** <progress value="75" max="100"></progress> 75%
-- **Firebase** <progress value="70" max="100"></progress> 70%
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### Tools & Technologies
 - Git, GitHub
@@ -89,5 +87,3 @@ Here are some snapshots from my projects:
 ---
 
 Thank you for visiting my portfolio! Let's connect and build something amazing together. ✨
-
-</div>
