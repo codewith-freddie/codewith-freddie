@@ -65,7 +65,7 @@ app/
 
 ## 🌟 Featured Projects
 
-- **[StudyMate Mobile Application](https://github.com/codewith-freddie/studymate-mobile-application)** – Mobile app with clean UI, subtle animations, and intuitive navigation for enhanced learning on the go 
+- **[StudyMate Mobile Application](https://github.com/codewith-freddie/studymate-mobile-application)** – Mobile learning app with clean UI, smooth navigation, and user-friendly features 
 - **[StudyMate Website](https://github.com/codewith-freddie/studymate-website)** - A visually engaging website emphasizing modern design, smooth animations, and interactive user experience
 - **[Kiosk Inventory System](https://github.com/codewith-freddie/kiosk-inventory-system)** - Inventory management system with borrowing and tracking features
 - **[Landing Page](https://github.com/codewith-freddie/landing-page)** - Clean and responsive landing page focused on modern layouts and eye-catching animations
