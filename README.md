@@ -32,7 +32,7 @@ I'm a passionate developer specializing in **front-end web development** and **A
 - REST APIs, JSON
 - Agile Methodologies
 
-  ### Design Tools
+### Design Tools
 - Capcut
 - Figma
 - Canva
@@ -65,8 +65,9 @@ app/
 
 ## 🌟 Featured Projects
 
+- **[StudyMate Mobile Application](https://github.com/codewith-freddie/studymate-mobile-application)** – Mobile app with clean UI, subtle animations, and intuitive navigation for enhanced learning on the go 
+- **[StudyMate Website](https://github.com/codewith-freddie/studymate-website)** - A visually engaging website emphasizing modern design, smooth animations, and interactive user experience
 - **[Kiosk Inventory System](https://github.com/codewith-freddie/kiosk-inventory-system)** - Inventory management system with borrowing and tracking features
-- **[StudyMate Website](https://github.com/codewith-freddie/studymate-website)** - A visually engaging website emphasizing modern design, smooth animations, and interactive user experience 
 - **[Landing Page](https://github.com/codewith-freddie/landing-page)** - Clean and responsive landing page focused on modern layouts and eye-catching animations
 - **[Web Portfolio](https://github.com/codewith-freddie/web-portfolio)** – Sleek personal portfolio highlighting interactive design, fluid animations, and polished user flows
 - **[DICT Frontend](https://github.com/lancelotgrafilo/DICT_frontend)** - Front-end project collaboration with an emphasis on UI components and responsive web design 
