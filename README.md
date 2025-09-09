@@ -20,11 +20,22 @@ I'm a passionate developer specializing in **front-end web development** and **A
 - Firebase, SQLite
 - Material Design
 
+### Graphic Design
+- Logo Design & Branding  
+- ID Lace & Badge Layouts  
+- Custom Icons & Illustrations  
+- UI/UX Design & Prototyping  
+
 ### Tools & Technologies
 - Git, GitHub
 - VS Code, Android Studio
 - REST APIs, JSON
 - Agile Methodologies
+
+  ### Design Tools
+- Capcut
+- Figma
+- Canva
 
 ## 📂 Project Structure
 
@@ -54,10 +65,13 @@ app/
 
 ## 🌟 Featured Projects
 
-- **[Photo Gallery](https://github.com/codewith-freddie/photo-gallery)** - Responsive image gallery with modal views
-- **[Android App Example](https://github.com/codewith-freddie/android-app)** - Sample Android application
+- **[Kiosk Inventory System](https://github.com/codewith-freddie/kiosk-inventory-system)** - Inventory management system with borrowing and tracking features
+- **[StudyMate Website](https://github.com/codewith-freddie/studymate-website)** - A visually engaging website emphasizing modern design, smooth animations, and interactive user experience 
+- **[Landing Page](https://github.com/codewith-freddie/landing-page)** - Clean and responsive landing page focused on modern layouts and eye-catching animations
+- **[Web Portfolio](https://github.com/codewith-freddie/web-portfolio)** – Sleek personal portfolio highlighting interactive design, fluid animations, and polished user flows
+- **[DICT Frontend](https://github.com/lancelotgrafilo/DICT_frontend)** - Front-end project collaboration with an emphasis on UI components and responsive web design 
 - **[Learn Python Exercises](https://github.com/codewith-freddie/learn-python-exercises)** - Python learning exercises and projects
-- **[My Portfolio Website](https://github.com/codewith-freddie/my-portfolio-website)** - Personal portfolio website
+
 
 ## 📈 GitHub Stats
 
